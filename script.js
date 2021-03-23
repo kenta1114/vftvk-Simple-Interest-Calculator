@@ -4,3 +4,7 @@ function compute()
     
 }
         
+var principal=input(principal);
+var rate=input(rate);
+var years=input(years); 
+var interest=principal*years*rate/100;           
